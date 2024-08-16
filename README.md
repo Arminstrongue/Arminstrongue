@@ -1,4 +1,5 @@
 👋 Hello, I'm Arminstrong!
+
 👨‍💻Overall IT Manager and Project Lead
 👨‍💻 Software Manager and Developer: Specializing in ERP systems, particularly Odoo, with a focus on localizations for Angola, including tax, accounting, and HR regulations.
 🔧 Tech Stack: Python, JavaScript, PostgreSQL, Odoo, Linux and Windows.
